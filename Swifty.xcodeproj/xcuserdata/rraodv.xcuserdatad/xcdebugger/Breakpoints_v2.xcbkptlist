@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swifty/Classes/RootVC.swift"
+            timestampString = "424797587.491024"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "request(_:didLoadResponse:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swifty.RootVC.request (Swifty.RootVC)(Swift.Optional&lt;ObjectiveC.SFRestRequest&gt;, didLoadResponse : Swift.AnyObject) -&gt; ()"
+                  moduleName = "Swifty"
+                  urlString = "file:///Users/rraodv/Apps/Swifty/Swifty/Classes/RootVC.swift"
+                  timestampString = "424797592.75049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swifty.RootVC.request (Swifty.RootVC)(Swift.Optional&lt;ObjectiveC.SFRestRequest&gt;, didLoadResponse : Swift.AnyObject) -&gt; ()"
+                  moduleName = "Swifty"
+                  urlString = "file:///Users/rraodv/Apps/Swifty/Swifty/Classes/RootVC.swift"
+                  timestampString = "424797592.750881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "266">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
